@@ -20,10 +20,9 @@
 # 1. pv_hour_report 
 
 ## 1.1. 主要流程如下
-![pv_hour_report_easy-20201127135210-2020-11-27-13-52-11](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/pv_hour_report_easy-20201127135210-2020-11-27-13-52-11.png)
-
+![hour_report-20201130190522-2020-11-30-19-05-24](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/hour_report-20201130190522-2020-11-30-19-05-24.png)
 ## 1.2. map
-![image-20201130183418605](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/img/fix-dir/Application Support/typora-user-images/2020/11/30/18-34-33-3fc540f01e080720cb84e0b882102685--Users-foo-Library-Application Support-typora-user-images-image-20201130183418605-9ec56c.png)
+![hour_report-20201130190724-2020-11-30-19-07-27](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/hour_report-20201130190724-2020-11-30-19-07-27.png)
 ## 1.3. reduce
 ![pv_hour_report_easy-20201127135451-2020-11-27-13-54-52](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/pv_hour_report_easy-20201127135451-2020-11-27-13-54-52.png)
 ## 1.4. update_db
