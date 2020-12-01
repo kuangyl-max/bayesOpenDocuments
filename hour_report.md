@@ -7,8 +7,6 @@
   - [2.2. map](#22-map)
   - [2.3. reduce](#23-reduce)
   - [2.4. update_db](#24-update_db)
-  - [2.5. 其他](#25-其他)
-    - [2.5.1. pv_day_report主要流程](#251-pv_day_report主要流程)
 - [3. req_hour_report](#3-req_hour_report)
   - [3.1. map](#31-map)
   - [3.2. reduce](#32-reduce)
@@ -28,25 +26,21 @@
 ## 2.1. 主要流程如下
 ![hour_report-20201130190522-2020-11-30-19-05-24](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/hour_report-20201130190522-2020-11-30-19-05-24.png)
 ## 2.2. map
-![hour_report-20201130190724-2020-11-30-19-07-27](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/hour_report-20201130190724-2020-11-30-19-07-27.png)
+![hour_report-20201201180830-2020-12-01-18-08-33](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/hour_report-20201201180830-2020-12-01-18-08-33.png)
 ## 2.3. reduce
-![pv_hour_report_easy-20201127135451-2020-11-27-13-54-52](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/pv_hour_report_easy-20201127135451-2020-11-27-13-54-52.png)
+![hour_report-20201201180904-2020-12-01-18-09-07](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/hour_report-20201201180904-2020-12-01-18-09-07.png)
 ## 2.4. update_db
 
 ![pv_hour_report_easy-20201127135618-2020-11-27-13-56-18](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/pv_hour_report_easy-20201127135618-2020-11-27-13-56-18.png)
-## 2.5. 其他
-### 2.5.1. pv_day_report主要流程
 
 > 待添加
 
 # 3. req_hour_report
 
 ## 3.1. map
-![Interstellar-report-datadiagram-easy-20201127143842-2020-11-27-14-38-42](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/Interstellar-report-datadiagram-easy-20201127143842-2020-11-27-14-38-42.png)
-
+![hour_report-20201201181321-2020-12-01-18-13-24](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/hour_report-20201201181321-2020-12-01-18-13-24.png)
 ## 3.2. reduce
-![Interstellar-report-datadiagram-easy-20201127143929-2020-11-27-14-39-30](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/Interstellar-report-datadiagram-easy-20201127143929-2020-11-27-14-39-30.png)
-
+![hour_report-20201201181349-2020-12-01-18-13-51](https://raw.githubusercontent.com/kuangyl-max/markdownMedia/master/hour_report-20201201181349-2020-12-01-18-13-51.png)
 # 4. bid_hour_report
 
 ## 4.1. map
